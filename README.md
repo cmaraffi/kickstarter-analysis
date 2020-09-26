@@ -4,7 +4,7 @@
 
 A detailed analysis for theater outcomes based on launch date and an analysis on play outcomes based on goals. 
 
-## Purpose
+### Purpose
 
 Find more information for Louise based on launch date and funding goals in order to get a real data set of campaigns and how they fared overall. 
 
